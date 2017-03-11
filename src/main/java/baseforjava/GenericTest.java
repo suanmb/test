@@ -26,7 +26,7 @@ public class GenericTest {
 		//list.add(10);
 		for(int i=0;i<list.size();i++){
 			String name = list.get(i);
-			System.out.println("name:"+name);
+			System.out.println("name...........:"+name);
 		}
 	}
 
